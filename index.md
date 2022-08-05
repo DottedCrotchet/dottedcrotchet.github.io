@@ -1,3 +1,3 @@
 # Welcome to DottedCrotchet's Notebook
 
-[Physics](physics.md)
+[Physics](physics/physics.md)
