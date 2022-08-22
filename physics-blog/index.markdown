@@ -5,4 +5,5 @@
 layout: home-physics
 title: "Physics Blog"
 category: Physics
+usemathjax: true
 ---
